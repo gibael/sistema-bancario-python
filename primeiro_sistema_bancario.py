@@ -141,4 +141,4 @@ while True: #codigo de repetição
 
 
 
-#FIM. AFELION'S BANK OUT.
+#FIM. AFELION'S BANK.
